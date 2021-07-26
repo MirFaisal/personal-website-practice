@@ -3,32 +3,3 @@
     margin: auto;
     padding: 0;
 }
-#first-section{
-    margin: auto;
-    width: 90%;
-    min-height: 400px;
-}
-.half-banner > .poster > img{
-    width: 80%;  
-}
-.half-banner{
-    display: flex;
-}
-.peter-article{
-    background:url("/images/header-bg.png"); 
-    margin-top: 40%;  
-}
-.peter-article > h1{
-    color: #ff4991 ;
-    letter-spacing: 2.5px;
-    font-size: 30px;
-    margin-bottom: 25px;
-}
-.peter-article,.biography-article h3{
-    margin-bottom: 10px;
-}
-.peter-article,.biography-article p{
-    font-size: small;
-    color: #746767;
-    margin-bottom: 20px;
-}
